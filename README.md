@@ -45,7 +45,9 @@ This task will award prizes for top 3 teams. Winners will get the award certific
 
 
 First prize:         5000 RMB + award certificate
+
 Second prize:        3000 RMB + award certificate
+
 Third prize:         1000 RMB + award certificate
 
 
