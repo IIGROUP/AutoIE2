@@ -9,12 +9,13 @@ Sub-events identification is a very fundamental problem in the field of informat
 The goal of this task is to build an IE system that can quickly adapt to a new occurring sub-event. Specifically, given a large number of event related corpus and a few labelled seed data, the task aims to build an IE system which may identify the target sub-events. Besides the machine learning model designing, annotating data selected from the unlabeled corpus is also allowed, but the size of the labelled data is fixed. How to select the best data to annotate is also an important step in this task. The task setting is very practical and thus the proposed solutions may generalize well in real world applications.
 
 Note:  
-1.	Three sub-event would be presented in the task and will be released with the seed dataset.
+1.	Three sub-events would be presented in the task and will be released with the seed dataset.
 2.	human annotation and correction are allowed for training dataset which is composed of seedset and data annotated by participants from unlabeled corpus. 
 3.	The size of data annotated by participants may not exceed 1000 per sub-event .
 
 ## Data
 All corpora provided are obtained from comment scenes (generally 8 to 120 characters long). The corpora are split into three parts, i.e., unlabeled dataset, seed dataset and test dataset. Participants can use the first two datasets to construct their own training set to train IE model, and use the testing dataset for evaluation. More details about these three datasets are as follows:
+
 Unlabelled dateset: 100,000 samples related to the sub-events.
 Seed dataset: 200 labeled samples per sub-event. 
 Test dataset : 2000 labeled samples per sub-event.
@@ -41,6 +42,7 @@ A eval.py script is provided to calculate the accuracy and valid prediction form
 ## Prizes
 
 This task will award prizes for top 3 teams. Winners will get the award certificates issued by NLPCC and CCF Technical Committee on Chinese Information Technology. 
+
 
 First prize:         5000 RMB + award certificate
 Second prize:        3000 RMB + award certificate
