@@ -1,4 +1,4 @@
-# NLPCC-2021 Shared Task on AutoIE
+# NLPCC-2021 Shared Task on AutoIE2: Sub-Event Identification
 
 ## Background
 
