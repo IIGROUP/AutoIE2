@@ -30,7 +30,9 @@ For submission, please write the prediction result into a single file and email 
 bxy20@mails.tsinghua.edu.cn
 
 there are two setting for this evaluation task:
+
 S1: training data size may not exceed N1 like 200 per sub-event, which is designed for few sample problem
+
 S2: training data size which is composed of seedset and data annotated from unlabeled corpus may not exceed N2 like 1200, which is designed for data selection problem.
 
 The submission file format should be the same as the format of given seed dataset. To be specific, each sample in the test dataset is labelled by 3, 2, 1 and 0. 
