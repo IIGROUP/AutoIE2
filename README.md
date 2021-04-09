@@ -17,8 +17,11 @@ Note:
 All corpora provided are obtained from comment scenes (generally 8 to 120 characters long). The corpora are split into three parts, i.e., unlabeled dataset, seed dataset and test dataset. Participants can use the first two datasets to construct their own training set to train IE model, and use the testing dataset for evaluation. More details about these three datasets are as follows:
 
 Unlabelled dateset: 100,000 samples related to the sub-events.
+
 Seed dataset: 200 labeled samples per sub-event. 
+
 Test dataset : 2000 labeled samples per sub-event.
+
 Tip: the exact size of these three datasets will be released by 2021/4/30 
 
 ## Submission & Evaluation
@@ -58,14 +61,18 @@ Further arrangement and baseline system will be published in https://github.com/
 ## Organizers: 
 
 Xuefeng Yang 
+
 email: yang0302@e.ntu.edu.sg
 
 Weigang Guo 
+
 email: springwg@163.com
 
 Xingyu Bai (Tsinghua University, Shenzhen International Graduate School)
+
 email: bxy20@mails.tsinghua.edu.cn
 
 Yujiu Yang (Tsinghua University, Shenzhen International Graduate School)
+
 email: yang.yujiu@sz.tsinghua.edu.cn
 
