@@ -1,12 +1,12 @@
 This corpora is obtained from comment texts of Weibo. Three categories of texts are considered in this task, which are COVID-19, Trade War and Tokyo Olympic Games. All data are split into 2 datasets for training and testing. 
 
-#### Category description
+### Category description
 
-##### Subject:
+#### Subject:
 
 COVID-19's prevention and control
 
-##### Defination:
+#### Defination:
 
 COVID-19's prevention and control means various preventive control measures taken by governments, hospitals and other organizations during the period of COVID-19 against its spread, including policies and regulations about masks, vaccines and home quarantine.
 
@@ -14,7 +14,7 @@ COVID-19's prevention and control means various preventive control measures take
 
 对应负样本主要是新冠的影响、溯源、扩散状况等子事件。同时，为凸显子事件边界，数据还引入了少量其它新冠相关样本和新冠无关的负样本。 
 
-##### Example:
+#### Example:
 
 > CDC还有一条提示，感觉也有意义：摘下口罩再戴时，手的洁净至关重要。建议洗手后再戴口罩。
 >
@@ -24,11 +24,11 @@ COVID-19's prevention and control means various preventive control measures take
 >
 > Label：0 
 
-##### Subject:
+#### Subject:
 
 Trade actions of US towards China during trade war
 
-##### Defination:
+#### Defination:
 
 The actions of US to reduce the trade deficit with China, including imposing tariffs of Chinese imports and restricting the ability of Chinese companies to trade with US firms.
 
@@ -36,7 +36,7 @@ The actions of US to reduce the trade deficit with China, including imposing tar
 
 负样本主要是中美贸易战期间的中方举措，美方制裁和中方反制裁这两类事件具有相同的语境，不同点主要体现在主客体的差异（美方发起贸易争端是美国为主体，中国为客体，中方反制裁是中方为主体，美方为客体），故对于事件识别是一个巨大的挑战。 
 
-##### Example:
+#### Example:
 
 > 美国商务部18日以“违反美国国家安全” 为由，宣布将包括大疆公司在内的包括59家中国实体列入所谓出口管制“实体清单”。据路透社20日报道，大疆在给该媒体一份邮件声明中，对被美国政府列入清单做出回应。
 >
@@ -46,11 +46,11 @@ The actions of US to reduce the trade deficit with China, including imposing tar
 >
 > Label：0 
 
-##### Subject:
+#### Subject:
 
 The Tokyo Olympic Games will be postponed or held as scheduled
 
-##### Defination:
+#### Defination:
 
 The Tokyo Olympic Games would not be cancelled, it will be held as scheduled or postponed.
 
@@ -58,7 +58,7 @@ The Tokyo Olympic Games would not be cancelled, it will be held as scheduled or 
 
 所对应负样本主要是各种因素作用下可能导致东京奥运会停办，民众对此事件的各种声音。其区别在于判别最终奥运会是否能够举行。同时，为凸显子事件边界，数据还引入了少量其它奥运会相关样本和奥运会无关的负样本。 
 
-##### Example:
+#### Example:
 
 > 为了维护运动员的健康，参加奥运会的每个人和国际社会，原定在东京举行的夏季奥运会及残奥运会重新安排到2020年以后，但不得晚于2021年夏天。 
 >
@@ -68,11 +68,11 @@ The Tokyo Olympic Games would not be cancelled, it will be held as scheduled or 
 >
 > Label：0 
 
-#### Train dataset
+### Train dataset
 
 1. Unlabelled corpus containing 100K samples related to the sub-events.
 2. Samples with specific categories, 100 labeled samples per sub-event.
 
-#### Test dataset
+### Test dataset
 
 Samples with specific categories, 2000 labeled samples per sub-event.
