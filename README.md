@@ -26,12 +26,9 @@ Note:
 ## Data
 All corpus provided are obtained from comments (generally 8 to 120 characters long). The corpus are split into three parts, i.e., unlabeled dataset, seed dataset and testing dataset. The  labelled seed dataset(100 samples per event) and unlabeled dataset(100K for 3 events) are released to participants to construct their own training set and developing set, and the testing dataset(around 2k per event) is used for final evaluation.
 More details about these three datasets are as follows:
-
-Unlabelled dateset: totally 100,000 samples related to the three sub-events.
-
-Seed dataset: 100 labeled samples per sub-event. 
-
-Test dataset : 2000 labeled samples per sub-event.
+1.	Unlabelled dateset: totally 100,000 samples related to the three sub-events.
+2.	Seed dataset: 100 labeled samples per sub-event. 
+3.	Test dataset : 2000 labeled samples per sub-event.
 
 Tip: Testset will be released untill 2021/6/5.
 
