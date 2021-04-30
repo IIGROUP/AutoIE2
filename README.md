@@ -6,7 +6,7 @@ Sub-events identification is a very fundamental problem in the field of informat
 1.	data confusing and imbalance. Events usually evolve rapidly and successive sub-events occur. Only a few target sub-events data need to be identifid from the large volume of events related data.
 2.	low resource. Usually only a limited amount of labelled seed data is given for learning and more annotating dataset is expensive and time consuming
 
-However, the existing works cannot fully meet the requirements, and thus better few shot learning methods and data selection for sub-event identification are crucial.
+However, the existing works cannot fully meet the requirements, and thus better few shot learning and data selection methods for sub-event identification are crucial.
 
 
 ## Task
@@ -15,12 +15,12 @@ The goal of this task is to build an IE system (Information Extraction system) t
 1.	Given a large number of event-related corpus and a few labelled seed data, the task aims to build an IE system which may identify the target sub-events.
 2.	Besides the machine learning model designing, annotating data selected from the unlabeled corpus is also allowed, but the size of the labelled data from the unlabeled corpus is fixed. How to select the best data to annotate and supply training dataset is also an important step in this task.
 
-The task setting is very practical, thus the proposed solutions may generalize well in real world applications.
+The task settings are very practical, thus the proposed solutions may generalize well in real world applications.
 
 Note:  
 1.	Three sub-event would be presented in the task and will be released with the seed dataset.
 2.	Human annotation and correction are allowed for training dataset which is composed of seedset and data annotated by participants from unlabeled corpus. 
-3.	The size of data annotated by participants may not exceed 100 per sub-event .
+3.	The size of data annotated by participants may not exceed 100 per sub-event.
 
 
 ## Data
