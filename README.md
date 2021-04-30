@@ -40,8 +40,8 @@ For submission, please write the prediction result into a single file and email 
 bxy20@mails.tsinghua.edu.cn
 
 There are two settings for this evaluation task and the final evaluation is the average accuracy of two settings;
-S1:	few sample problem setting: the size of training data may not exceed 100 per sub-event, human annotation is not allowed.
-S2:	data selection problem setting: human annotation is allowed. The size of training data which is composed of seedset and data annotated from unlabeled corpus may not exceed 200.
+1.	few sample problem setting: the size of training data may not exceed 100 per sub-event, human annotation is not allowed.
+2.	data selection problem setting: human annotation is allowed. The size of training data which is composed of seedset and data annotated from unlabeled corpus may not exceed 200.
 
 The format of submission file should be the same as the format of given seed dataset. To be specific, each sample in the test dataset is labelled by 3, 2, 1 and 0. 
 
