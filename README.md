@@ -4,9 +4,9 @@
 
 Sub-events identification is a very fundamental problem in the field of information extraction, especially in emergency situations (e.g., terrorist attacks). It is challenging for two reasons:
 1.	data confusing and imbalance. Events usually evolve rapidly and successive sub-events occur. Only a few target sub-events data need to be identifid from the large volume of events related data.
-2.	low resource. Usually only a limited amount of labelled seed data is given for learning and more annotating dataset is expensive and time consuming
+2.	low resource. Usually only a limited amount of labelled seed data is given for learning and more annotating datasets are expensive and time consuming
 
-However, the existing works cannot fully meet the requirements, and thus better few shot learning and data selection methods for sub-event identification are crucial.
+However, the existing works cannot fully meet the requirements, and thus better few shot learning and data selection models for sub-event identification are crucial.
 
 
 ## Task
