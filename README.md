@@ -4,7 +4,7 @@
 
 Sub-events identification is a very fundamental problem in the field of information extraction, especially in emergency situations (e.g., terrorist attacks). It is challenging for two reasons:
 1.	data confusing and imbalance. Events usually evolve rapidly and successive sub-events occur. Only a few target sub-events data need to be identifid from the large volume of events related data.
-2.	low resource. Usually only a limited amount of labelled seed data is given for learning and more annotating datasets are expensive and time consuming
+2.	low resource. Usually only a limited amount of labelled seed data is given for learning and more annotating datasets are expensive and time consuming.
 
 However, the existing works cannot fully meet the requirements, and thus better few shot learning and data selection models for sub-event identification are crucial.
 
@@ -40,7 +40,9 @@ For submission, please write the prediction result into a single file and email 
 bxy20@mails.tsinghua.edu.cn
 
 There are two settings for this evaluation task and the final evaluation is the average accuracy of two settings;
+
 S1: few sample problem setting: the size of training data may not exceed 100 per sub-event, human annotation is not allowed.
+
 S2: data selection problem setting: human annotation is allowed. The size of training data which is composed of seedset and data annotated from unlabeled corpus may not exceed 200.
 
 The format of submission file should be the same as the format of given seed dataset. To be specific, each sample in the test dataset is labelled by 3, 2, 1 and 0. 
