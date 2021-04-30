@@ -3,8 +3,8 @@
 ## Background
 
 Sub-events identification is a very fundamental problem in the field of information extraction, especially in emergency situations (e.g., terrorist attacks). It is challenging for two reasons:
-1, data confusing and imbalance. Events usually evolve rapidly and successive sub-events occur. Only a few target sub-events data need to be identifid from the large volume of events related data.
-2, low resource. Usually only a limited amount of labelled seed data is given for learning and more annotating dataset is expensive and time consuming
+1.	data confusing and imbalance. Events usually evolve rapidly and successive sub-events occur. Only a few target sub-events data need to be identifid from the large volume of events related data.
+2.	low resource. Usually only a limited amount of labelled seed data is given for learning and more annotating dataset is expensive and time consuming
 However, the existing works cannot fully meet the requirements, and thus better few shot learning methods and data selection for sub-event identification are crucial.
 
 
@@ -24,10 +24,12 @@ Note:
 ## Data
 All corpus provided are obtained from comments (generally 8 to 120 characters long). The corpus are split into three parts, i.e., unlabeled dataset, seed dataset and testing dataset. The  labelled seed dataset(100 samples per event) and unlabeled dataset(100K for 3 events) are released to participants to construct their own training set and developing set, and the testing dataset(around 2k per event) is used for final evaluation.
 More details about these three datasets are as follows:
-Unlabelled dateset: totally 100,000 samples related to the three sub-events.
-Seed dataset: 100 labeled samples per sub-event. 
-Test dataset : 2000 labeled samples per sub-event.
-Tip: Testset will be released untill 2021/6/5.
+
+	Unlabelled dateset: totally 100,000 samples related to the three sub-events.
+	Seed dataset: 100 labeled samples per sub-event. 
+	Test dataset : 2000 labeled samples per sub-event.
+
+	Tip: Testset will be released untill 2021/6/5.
 
 
 ## Submission & Evaluation
