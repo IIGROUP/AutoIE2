@@ -1,4 +1,4 @@
-[**English**](https://github.com/IIGROUP/AutoIE2/baseline) | [**中文**](https://github.com/IIGROUP/AutoIE2/baseline/README_ZH.md)
+[**English**](https://github.com/IIGROUP/AutoIE2/blob/main/baseline/README.md) | [**中文**](https://github.com/IIGROUP/AutoIE2/blob/main/baseline/README_ZH.md)
 
 本目录是NLPCC-2021 Shared Task on AutoIE2: Sub-Event Identification任务的baseline。解决方案基于“UER: An Open-Source Toolkit for Pre-training Models”工作。在使用时请进行引用。
 
