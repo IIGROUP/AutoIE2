@@ -1,4 +1,4 @@
-[**English**](https://github.com/IIGROUP/AutoIE2/baseline) | [**中文**](https://github.com/IIGROUP/AutoIE2/baseline/blob/master/README_ZH.md)
+[**English**](https://github.com/IIGROUP/AutoIE2/blob/main/baseline/README.md) | [**中文**](https://github.com/IIGROUP/AutoIE2/blob/main/baseline/README_ZH.md)
 
 This repository is the baseline for the AutoIE2 evaluation. The solution is based on the work “UER: An Open-Source Toolkit for Pre-training Models”. Please cite it if you use it. 
 
