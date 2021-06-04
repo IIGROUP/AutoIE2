@@ -43,7 +43,7 @@ There are two settings for this evaluation task and the final evaluation is the 
 1.	few sample problem setting: the size of training data may not exceed 100 per sub-event, human annotation is not allowed.
 2.	data selection problem setting: human annotation is allowed. The size of training data which is composed of seedset and data annotated from unlabeled corpus may not exceed 200.
 
-The format of submission file should be the same as the format of given seed dataset. To be specific, each sample in the test dataset is labelled by 3, 2, 1 and 0. 
+The format of submission file should be the same as the format of given submission-format.txt file under taskdata folder. To be specific, each sample in the test dataset is labelled by 3, 2, 1 and 0, which represent COVID-19, Tokyo Olympic Games, Trade War and negative samples, respectively.
 
 An eval.py script is provided to calculate the accuracy and verify prediction format. 
 
