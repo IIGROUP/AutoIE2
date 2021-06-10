@@ -1,5 +1,22 @@
 # NLPCC-2021 Shared Task on AutoIE2: Sub-Event Identification
 
+## Leaderboard with Few Sample
+| Rank | TeamName | Organization | Acc-score |
+| :-----: | :----: | :----: | :----: |
+| 1 | 52wtq | NanChang Hangkong University | 74.25 |
+| 2 | buaa_iip | Beihang UniversitBXYy | 73.28 |
+| 3 | BaselineSystem | NLPCC | 70.52 |
+
+
+## Leaderboard with Data Selection
+| Rank | TeamName | Organization | Acc-score |
+| :-----: | :----: | :----: | :----: |
+| 1 | BIT-Event | Beijing Institute of Technology | 74.48 |
+| 2 | buaa_iip | Beihang University | 73.18 |
+| 3 | 52wtq | NanChang Hangkong University | 72.78 |
+| 4 | BaselineSystem | NLPCC | 70.85 |
+
+
 ## Background
 
 Sub-events identification is a very fundamental problem in the field of information extraction, especially in emergency situations (e.g., terrorist attacks). It is challenging for two reasons:
