@@ -4,7 +4,7 @@
 | Rank | TeamName | Organization | Acc-score |
 | :-----: | :----: | :----: | :----: |
 | 1 | 52wtq | NanChang Hangkong University | 74.25 |
-| 2 | buaa_iip | Beihang UniversitBXYy | 73.28 |
+| 2 | buaa_iip | Beihang University | 73.28 |
 | 3 | BaselineSystem | NLPCC | 70.52 |
 
 
