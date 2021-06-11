@@ -3,17 +3,19 @@
 ## Leaderboard with Few Sample
 | Rank | TeamName | Organization | Acc-score |
 | :-----: | :----: | :----: | :----: |
-| 1 | 52wtq | NanChang Hangkong University | 74.25 |
-| 2 | buaa_iip | Beihang University | 73.28 |
-| 3 | BaselineSystem | NLPCC | 70.52 |
+| 1 | guagua | Tianjin University | 74.43 |
+| 2 | 52wtq | NanChang Hangkong University | 74.25 |
+| 3 | buaa_iip | Beihang University | 73.28 |
+| 4 | BIT-Event | Beijing Institute of Technology | 70.52 |
+| 5 | BaselineSystem | NLPCC | 70.52 |
 
 
 ## Leaderboard with Data Selection
 | Rank | TeamName | Organization | Acc-score |
 | :-----: | :----: | :----: | :----: |
 | 1 | BIT-Event | Beijing Institute of Technology | 74.48 |
-| 2 | buaa_iip | Beihang University | 73.18 |
-| 3 | 52wtq | NanChang Hangkong University | 72.78 |
+| 2 | 52wtq | NanChang Hangkong University | 73.73 |
+| 3 | buaa_iip | Beihang University | 73.18 |
 | 4 | BaselineSystem | NLPCC | 70.85 |
 
 
