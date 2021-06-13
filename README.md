@@ -13,10 +13,21 @@
 ## Leaderboard with Data Selection
 | Rank | TeamName | Organization | Acc-score |
 | :-----: | :----: | :----: | :----: |
-| 1 | BIT-Event | Beijing Institute of Technology | 74.48 |
-| 2 | 52wtq | NanChang Hangkong University | 73.73 |
-| 3 | buaa_iip | Beihang University | 73.18 |
-| 4 | BaselineSystem | NLPCC | 70.85 |
+| 1 | guagua | Tianjin University | 76.08 |
+| 2 | BIT-Event | Beijing Institute of Technology | 74.48 |
+| 3 | 52wtq | NanChang Hangkong University | 73.73 |
+| 4 | buaa_iip | Beihang University | 73.18 |
+| 5 | BaselineSystem | NLPCC | 70.85 |
+
+
+## Overall Leaderboard
+| Rank | TeamName | Organization | Acc-score |
+| :-----: | :----: | :----: | :----: |
+| 1 | guagua | Tianjin University | 75.26 |
+| 2 | 52wtq | NanChang Hangkong University | 73.99 |
+| 3 | buaa_iip | Beihang University | 73.23 |
+| 4 | BIT-Event | Beijing Institute of Technology | 72.50 |
+| 5 | BaselineSystem | NLPCC | 70.69 |
 
 
 ## Background
