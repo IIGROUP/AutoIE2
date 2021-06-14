@@ -3,39 +3,42 @@
 ## Leaderboard with Few Sample
 | Rank | TeamName | Organization | Acc-score |
 | :-----: | :----: | :----: | :----: |
-| 1 | happy | Northeastern University | 77.80 |
-| 2 | 重在参与队 | 	清华大学深圳国际研究生院深度学习初学者 | 75.72 |
-| 3 | Real | Waseda University | 75.65 |
-| 4 | BIT-Event | Beijing Institute of Technology | 74.80 |
-| 5 | guagua | Tianjin University | 74.43 |
-| 6 | 52wtq | NanChang Hangkong University | 74.25 |
-| 7 | buaa_iip | Beihang University | 73.28 |
-| 8 | BaselineSystem | NLPCC | 70.52 |
+| 1 | happy | Northeastern University | 77.98 |
+| 2 | Real | Waseda University | 77.00 |
+| 3 | BIT-Event | Beijing Institute of Technology | 76.70 |
+| 4 | Alphonse | Harbin Institute of Technology, Shenzhen | 76.22 |
+| 5 | 重在参与队 | 清华大学深圳国际研究生院深度学习初学者 | 75.72 |
+| 6 | guagua | Tianjin University | 74.43 |
+| 7 | 52wtq | NanChang Hangkong University | 74.25 |
+| 8 | buaa_iip | Beihang University | 73.28 |
+| 9 | BaselineSystem | NLPCC | 70.52 |
 
 
 ## Leaderboard with Data Selection
 | Rank | TeamName | Organization | Acc-score |
 | :-----: | :----: | :----: | :----: |
-| 1 | happy | Northeastern University | 76.50 |
-| 2 | guagua | Tianjin University | 76.08 |
-| 3 | BIT-Event | Beijing Institute of Technology | 75.08 |
-| 4 | 重在参与队 | 	清华大学深圳国际研究生院深度学习初学者 | 74.32 |
-| 5 | 52wtq | NanChang Hangkong University | 73.73 |
-| 6 | buaa_iip | Beihang University | 73.18 |
-| 7 | BaselineSystem | NLPCC | 70.85 |
+| 1 | BIT-Event | Beijing Institute of Technology | 77.02 |
+| 2 | happy | Northeastern University | 76.50 |
+| 3 | guagua | Tianjin University | 76.08 |
+| 4 | Alphonse | Harbin Institute of Technology, Shenzhen | 76.05 |
+| 5 | 重在参与队 | 清华大学深圳国际研究生院深度学习初学者 | 74.32 |
+| 6 | 52wtq | NanChang Hangkong University | 73.73 |
+| 7 | buaa_iip | Beihang University | 73.18 |
+| 8 | BaselineSystem | NLPCC | 70.85 |
 
 
 ## Overall Leaderboard
 | Rank | TeamName | Organization | Acc-score |
 | :-----: | :----: | :----: | :----: |
-| 1 | happy | Northeastern University | 77.15 |
-| 2 | guagua | Tianjin University | 75.26 |
-| 3 | 重在参与队 | 	清华大学深圳国际研究生院深度学习初学者 | 75.02 |
-| 4 | BIT-Event | Beijing Institute of Technology | 74.94 |
-| 5 | 52wtq | NanChang Hangkong University | 73.99 |
-| 6 | Real | Waseda University | 73.25 |
-| 7 | buaa_iip | Beihang University | 73.23 |
-| 8 | BaselineSystem | NLPCC | 70.69 |
+| 1 | happy | Northeastern University | 77.24 |
+| 2 | BIT-Event | Beijing Institute of Technology | 76.86 |
+| 3 | Alphonse | Harbin Institute of Technology, Shenzhen | 76.14 |
+| 4 | guagua | Tianjin University | 75.26 |
+| 5 | 重在参与队 | 清华大学深圳国际研究生院深度学习初学者 | 75.02 |
+| 6 | 52wtq | NanChang Hangkong University | 73.99 |
+| 7 | Real | Waseda University | 73.93 |
+| 8 | buaa_iip | Beihang University | 73.23 |
+| 9 | BaselineSystem | NLPCC | 70.69 |
 
 
 ## Background
