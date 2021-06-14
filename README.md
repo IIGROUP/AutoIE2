@@ -3,31 +3,39 @@
 ## Leaderboard with Few Sample
 | Rank | TeamName | Organization | Acc-score |
 | :-----: | :----: | :----: | :----: |
-| 1 | guagua | Tianjin University | 74.43 |
-| 2 | 52wtq | NanChang Hangkong University | 74.25 |
-| 3 | buaa_iip | Beihang University | 73.28 |
-| 4 | BIT-Event | Beijing Institute of Technology | 70.52 |
-| 5 | BaselineSystem | NLPCC | 70.52 |
+| 1 | happy | Northeastern University | 77.80 |
+| 2 | 重在参与队 | 	清华大学深圳国际研究生院深度学习初学者 | 75.72 |
+| 3 | Real | Waseda University | 75.65 |
+| 4 | BIT-Event | Beijing Institute of Technology | 74.80 |
+| 5 | guagua | Tianjin University | 74.43 |
+| 6 | 52wtq | NanChang Hangkong University | 74.25 |
+| 7 | buaa_iip | Beihang University | 73.28 |
+| 8 | BaselineSystem | NLPCC | 70.52 |
 
 
 ## Leaderboard with Data Selection
 | Rank | TeamName | Organization | Acc-score |
 | :-----: | :----: | :----: | :----: |
-| 1 | guagua | Tianjin University | 76.08 |
-| 2 | BIT-Event | Beijing Institute of Technology | 74.48 |
-| 3 | 52wtq | NanChang Hangkong University | 73.73 |
-| 4 | buaa_iip | Beihang University | 73.18 |
-| 5 | BaselineSystem | NLPCC | 70.85 |
+| 1 | happy | Northeastern University | 76.50 |
+| 2 | guagua | Tianjin University | 76.08 |
+| 3 | BIT-Event | Beijing Institute of Technology | 75.08 |
+| 4 | 重在参与队 | 	清华大学深圳国际研究生院深度学习初学者 | 74.32 |
+| 5 | 52wtq | NanChang Hangkong University | 73.73 |
+| 6 | buaa_iip | Beihang University | 73.18 |
+| 7 | BaselineSystem | NLPCC | 70.85 |
 
 
 ## Overall Leaderboard
 | Rank | TeamName | Organization | Acc-score |
 | :-----: | :----: | :----: | :----: |
-| 1 | guagua | Tianjin University | 75.26 |
-| 2 | 52wtq | NanChang Hangkong University | 73.99 |
-| 3 | buaa_iip | Beihang University | 73.23 |
-| 4 | BIT-Event | Beijing Institute of Technology | 72.50 |
-| 5 | BaselineSystem | NLPCC | 70.69 |
+| 1 | happy | Northeastern University | 77.15 |
+| 2 | guagua | Tianjin University | 75.26 |
+| 3 | 重在参与队 | 	清华大学深圳国际研究生院深度学习初学者 | 75.02 |
+| 4 | BIT-Event | Beijing Institute of Technology | 74.94 |
+| 5 | 52wtq | NanChang Hangkong University | 73.99 |
+| 6 | Real | Waseda University | 73.25 |
+| 7 | buaa_iip | Beihang University | 73.23 |
+| 8 | BaselineSystem | NLPCC | 70.69 |
 
 
 ## Background
