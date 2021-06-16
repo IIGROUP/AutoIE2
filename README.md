@@ -24,9 +24,9 @@
 | Rank | TeamName | Organization | Acc-score |
 | :-----: | :----: | :----: | :----: |
 | 1 | BIT-Event | Beijing Institute of Technology | 79.10 |
-| 2 | Alphonse | Harbin Institute of Technology, Shenzhen | 76.57 |
-| 3 | happy | Northeastern University | 76.50 |
-| 4 | guagua | Tianjin University | 76.08 |
+| 2 | happy | Northeastern University | 76.50 |
+| 3 | guagua | Tianjin University | 76.08 |
+| 4 | Alphonse | Harbin Institute of Technology, Shenzhen | 76.05 |
 | 5 | CC | Renmin University | 74.72 |
 | 6 | The Brainiacs | 中国人民大学 | 74.42 |
 | 7 | CUGB1012 | China University of Geosciences | 74.35 |
@@ -43,7 +43,7 @@
 | :-----: | :----: | :----: | :----: |
 | 1 | BIT-Event | Beijing Institute of Technology | 79.12 |
 | 2 | happy | Northeastern University | 77.24 |
-| 3 | Alphonse | Harbin Institute of Technology, Shenzhen | 76.40 |
+| 3 | Alphonse | Harbin Institute of Technology, Shenzhen | 76.14 |
 | 4 | guagua | Tianjin University | 75.52 |
 | 5 | Real | Waseda University | 75.39 |
 | 6 | CC | Renmin University | 74.80 |
