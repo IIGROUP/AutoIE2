@@ -3,42 +3,59 @@
 ## Leaderboard with Few Sample
 | Rank | TeamName | Organization | Acc-score |
 | :-----: | :----: | :----: | :----: |
-| 1 | happy | Northeastern University | 77.98 |
-| 2 | Real | Waseda University | 77.00 |
-| 3 | BIT-Event | Beijing Institute of Technology | 76.70 |
+| 1 | BIT-Event | Beijing Institute of Technology | 79.13 |
+| 2 | happy | Northeastern University | 77.98 |
+| 3 | Real | Waseda University | 77.40 |
 | 4 | Alphonse | Harbin Institute of Technology, Shenzhen | 76.22 |
-| 5 | 重在参与队 | 清华大学深圳国际研究生院深度学习初学者 | 75.72 |
-| 6 | guagua | Tianjin University | 74.43 |
-| 7 | 52wtq | NanChang Hangkong University | 74.25 |
-| 8 | buaa_iip | Beihang University | 73.28 |
-| 9 | BaselineSystem | NLPCC | 70.52 |
+| 5 | ZM | CUG | 76.01 |
+| 6 | The Brainiacs | 中国人民大学 | 75.00 |
+| 7 | guagua | Tianjin University | 74.95 |
+| 8 | JHX | China University of Geosciences (Beijing) | 74.91 |
+| 9 | CC | Renmin University | 74.88 |
+| 10 | CUGB1012 | China University of Geosciences | 74.65 |
+| 11 | ZZN | 中国地质大学 | 74.53 |
+| 12 | 52wtq | NanChang Hangkong University | 74.25 |
+| 13 | buaa_iip | Beihang University | 73.28 |
+| 14 | IE_X | 北京理工大学 | 57.15 |
+| 15 | BaselineSystem | NLPCC | 70.52 |
 
 
 ## Leaderboard with Data Selection
 | Rank | TeamName | Organization | Acc-score |
 | :-----: | :----: | :----: | :----: |
-| 1 | BIT-Event | Beijing Institute of Technology | 77.02 |
-| 2 | happy | Northeastern University | 76.50 |
-| 3 | guagua | Tianjin University | 76.08 |
-| 4 | Alphonse | Harbin Institute of Technology, Shenzhen | 76.05 |
-| 5 | 重在参与队 | 清华大学深圳国际研究生院深度学习初学者 | 74.32 |
-| 6 | 52wtq | NanChang Hangkong University | 73.73 |
-| 7 | buaa_iip | Beihang University | 73.18 |
-| 8 | BaselineSystem | NLPCC | 70.85 |
+| 1 | BIT-Event | Beijing Institute of Technology | 79.10 |
+| 2 | Alphonse | Harbin Institute of Technology, Shenzhen | 76.57 |
+| 3 | happy | Northeastern University | 76.50 |
+| 4 | guagua | Tianjin University | 76.08 |
+| 5 | CC | Renmin University | 74.72 |
+| 6 | The Brainiacs | 中国人民大学 | 74.42 |
+| 7 | CUGB1012 | China University of Geosciences | 74.35 |
+| 8 | 52wtq | NanChang Hangkong University | 73.73 |
+| 9 | JHX | China University of Geosciences (Beijing) | 73.68 |
+| 10 | Real | Waseda University | 73.38 |
+| 11 | buaa_iip | Beihang University | 73.18 |
+| 12 | IE_X | 北京理工大学 | 67.22 |
+| 13 | BaselineSystem | NLPCC | 70.85 |
 
 
 ## Overall Leaderboard
 | Rank | TeamName | Organization | Acc-score |
 | :-----: | :----: | :----: | :----: |
-| 1 | happy | Northeastern University | 77.24 |
-| 2 | BIT-Event | Beijing Institute of Technology | 76.86 |
-| 3 | Alphonse | Harbin Institute of Technology, Shenzhen | 76.14 |
-| 4 | guagua | Tianjin University | 75.26 |
-| 5 | 重在参与队 | 清华大学深圳国际研究生院深度学习初学者 | 75.02 |
-| 6 | 52wtq | NanChang Hangkong University | 73.99 |
-| 7 | Real | Waseda University | 73.93 |
-| 8 | buaa_iip | Beihang University | 73.23 |
-| 9 | BaselineSystem | NLPCC | 70.69 |
+| 1 | BIT-Event | Beijing Institute of Technology | 79.12 |
+| 2 | happy | Northeastern University | 77.24 |
+| 3 | Alphonse | Harbin Institute of Technology, Shenzhen | 76.40 |
+| 4 | guagua | Tianjin University | 75.52 |
+| 5 | Real | Waseda University | 75.39 |
+| 6 | CC | Renmin University | 74.80 |
+| 7 | The Brainiacs | 中国人民大学 | 74.71 |
+| 8 | CUGB1012 | China University of Geosciences | 74.50 |
+| 9 | JHX | China University of Geosciences (Beijing) | 74.30 |
+| 10 | 52wtq | NanChang Hangkong University | 73.99 |
+| 11 | ZM | CUG | 73.43 |
+| 12 | buaa_iip | Beihang University | 73.23 |
+| 13 | ZZN | 中国地质大学 | 72.69 |
+| 14 | IE_X | 北京理工大学 | 62.19 |
+| 15 | BaselineSystem | NLPCC | 70.69 |
 
 
 ## Background
